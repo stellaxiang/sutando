@@ -113,3 +113,8 @@ workspace/*
 !workspace/.gitkeep
 # AG2 onboarding summary — private (invite codes + ids)
 ag2-onboarding.txt
+
+# Personal LaTeX build artifacts — not project files
+xingyu_xiang_2026.aux
+xingyu_xiang_2026.out
+xingyu_xiang_2026.pdf
